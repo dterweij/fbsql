@@ -1,0 +1,6 @@
+fastbase sql taken from http://www.fastbase.co.nz/fbsql/index.html
+
+To make it work at least for CentOS 6 and MySQL 5
+
+Interface between TCL language and MySQL.
+
